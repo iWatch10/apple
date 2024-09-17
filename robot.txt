@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iwatch10.github.io/apple/sitemap.xml
